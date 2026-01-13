@@ -10,7 +10,7 @@
   <a href="mailto:marvalos818@gmail.com">
     <img src="https://img.shields.io/badge/Email-marvalos818%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/qa-martin-avalos/">
     <img src="https://img.shields.io/badge/LinkedIn-QA%20Engineer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/MartinRAM24">
